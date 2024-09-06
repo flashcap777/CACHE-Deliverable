@@ -1,4 +1,4 @@
-# CACHE VR Deliverable - Anselm Wisdo - 9/6/24
+# CACHE VR Deliverable - Anselm W. - 9/6/24
  Application Assignment for CACHE Interview
 
 Controls:
